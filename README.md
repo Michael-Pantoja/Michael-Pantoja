@@ -9,9 +9,12 @@ I'm a Data Analyst/Scientist with expertise reporting, visualizations, and optim
 - Ad-hoc and ongoing queries and reports with SQL
 - Particular fixation for saports and gaming data
 
+### 🙆 Most Recent Project
+- NFL Subreddit Sentiment Analyses [Portfolio Post](https://michael-pantoja.github.io/), [LinkedIn Post](https://www.linkedin.com/in/michaelpantojacollasso/)
+
 ### 🔜 Working On...
 - iOS Book Tracking App with Gamifications (Name Unannounced)
-- NFL Subreddit Sentiment Analyses
+- Super Mario Maker 2 Difficulty Classifier
 - Full Portfolio can be found on my portfolio website, [https://michael-pantoja.github.io/](https://michael-pantoja.github.io/)
 
 ### 🌐 Languages/Stack
