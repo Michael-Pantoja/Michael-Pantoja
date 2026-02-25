@@ -10,7 +10,7 @@ I'm a Data Analyst/Scientist with expertise reporting, visualizations, and optim
 - Particular fixation for saports and gaming data
 
 ### 🙆 Most Recent Project
-- NFL Subreddit Sentiment Analyses [Portfolio Post](https://michael-pantoja.github.io/), [LinkedIn Post](https://www.linkedin.com/in/michaelpantojacollasso/)
+- NFL Subreddit Sentiment Analysis (Which Fan Base is the Most Positive?) [Portfolio Post](https://michael-pantoja.github.io/), [LinkedIn Post](https://www.linkedin.com/in/michaelpantojacollasso/)
 
 ### 🔜 Working On...
 - iOS Book Tracking App with Gamifications (Name Unannounced)
