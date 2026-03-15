@@ -23,7 +23,7 @@ I'm a Data Analyst/Scientist with expertise reporting, visualizations, and optim
 - **Database**: MSSQL, PosgreSQL, MySQL
 
 ### 🤝 Connect
-- [LinkedIn](https://www.linkedin.com/in/michaelpantojacollasso/)
+- [LinkedIn](https://www.linkedin.com/in/mpc-data/)
 <!--
 **Michael-Pantoja/Michael-Pantoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
